@@ -1,0 +1,9 @@
+{
+    "name": "SnowEffect",
+    "description": "Make it snow!",
+    "version": "1.0.0",
+    "author": "Thiago Cunha",
+    "type": "visualization",
+    "icon": "extension",
+    "preview": "preview.png"
+}
