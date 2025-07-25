@@ -1,0 +1,7 @@
+{
+    "name": "IFrameHtmlQlik",
+    "description": "Embed an iframe with custom HTML content",
+    "type": "visualization",
+    "version": "1.0.2",
+    "author": "Thiago Cunha"
+}
